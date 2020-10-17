@@ -10,7 +10,7 @@
         "skipLibCheck": true,
         "outDir": "typeScript",
         "typeRoots": [ "./node_modules/@types" ],
-        "types": ["node","cucumber"]
+        "types": ["node","cucumber", "protractor"]
     },
     "exclude": [
         "node_modules",

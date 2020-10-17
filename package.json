@@ -30,7 +30,7 @@
     "webdriver-update": "webdriver-manager update",
     "webdriver-start": "webdriver-manager start"
   },
-  "author": "Ram Pasala <ram.pasala7@gmail.com>",
+  "author": "Redd Reality Test Corp. <redd.reality@gmail.com>",
   "devDependencies": {
     "@types/cucumber": "^4.0.4",
     "@types/node": "^10.7.1",
