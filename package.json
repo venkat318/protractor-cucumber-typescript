@@ -41,11 +41,17 @@
     "cucumber": "^5.0.3",
     "cucumber-html-reporter": "^4.0.3",
     "mkdirp": "^0.5.1",
-    "protractor": "^5.4.0",
+    "protractor": "^5.4.4",
     "protractor-cucumber-framework": "^6.1.1",
     "rimraf": "^2.6.2",
     "ts-node": "^7.0.1",
-    "typescript": "^3.0.1"
+    "typescript": "^3.9.9"
   },
-  "repository": "https://github.com/igniteram/protractor-cucumber-typescript"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igniteram/protractor-cucumber-typescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/igniteram/protractor-cucumber-typescript/issues"
+  }
 }
